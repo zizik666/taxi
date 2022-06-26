@@ -18,7 +18,7 @@ from static_map_passengers import create_static_map_order     # get static map g
 
 # TOKEN for bot
 
-token = "1892369905:AAErBKLVAT95cNV7oLTzrTmxjhEM4fvEMNE"
+token = "5555079033:AAH_Yb6kUA5Jg2q1XR3RCtcbRX6nm9MNqcc"
 bot = telebot.TeleBot(token)
 
 
